@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GEFSimulator_CB" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GEFSimulator_CB" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GEFSimulator_CB" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CalculateMean.cpp" />
+		<Unit filename="CalculateMean.h" />
+		<Unit filename="CalculateVariance.cpp" />
+		<Unit filename="CalculateVariance.h" />
+		<Unit filename="CycleModel1.cpp" />
+		<Unit filename="CycleModel1.h" />
+		<Unit filename="CycleModel2.cpp" />
+		<Unit filename="CycleModel2.h" />
+		<Unit filename="CycleModel3.cpp" />
+		<Unit filename="CycleModel3.h" />
+		<Unit filename="CycleModel4.cpp" />
+		<Unit filename="CycleModel4.h" />
+		<Unit filename="CycleModel5.cpp" />
+		<Unit filename="CycleModel5.h" />
+		<Unit filename="CycleModel6.cpp" />
+		<Unit filename="CycleModel6.h" />
+		<Unit filename="CycleModel7.cpp" />
+		<Unit filename="CycleModel7.h" />
+		<Unit filename="CycleModel8.cpp" />
+		<Unit filename="CycleModel8.h" />
+		<Unit filename="LinearRegression.cpp" />
+		<Unit filename="LinearRegression.h" />
+		<Unit filename="Matrice.cpp" />
+		<Unit filename="Matrice.h" />
+		<Unit filename="Model1.cpp" />
+		<Unit filename="Model1.h" />
+		<Unit filename="Model2.cpp" />
+		<Unit filename="Model2.h" />
+		<Unit filename="Model3.cpp" />
+		<Unit filename="Model3.h" />
+		<Unit filename="Model4.cpp" />
+		<Unit filename="Model4.h" />
+		<Unit filename="Model5.cpp" />
+		<Unit filename="Model5.h" />
+		<Unit filename="Model6.cpp" />
+		<Unit filename="Model6.h" />
+		<Unit filename="Model7.cpp" />
+		<Unit filename="Model7.h" />
+		<Unit filename="Model8.cpp" />
+		<Unit filename="Model8.h" />
+		<Unit filename="ModelDom2All.cpp" />
+		<Unit filename="ModelDom2All.h" />
+		<Unit filename="MoyFitModel1.cpp" />
+		<Unit filename="MoyFitModel1.h" />
+		<Unit filename="MoyFitModel2.cpp" />
+		<Unit filename="MoyFitModel2.h" />
+		<Unit filename="MoyFitModel3.cpp" />
+		<Unit filename="MoyFitModel3.h" />
+		<Unit filename="MoyFitModel4.cpp" />
+		<Unit filename="MoyFitModel4.h" />
+		<Unit filename="MoyFitModel5.cpp" />
+		<Unit filename="MoyFitModel5.h" />
+		<Unit filename="MoyFitModel6.cpp" />
+		<Unit filename="MoyFitModel6.h" />
+		<Unit filename="MoyFitModel7.cpp" />
+		<Unit filename="MoyFitModel7.h" />
+		<Unit filename="RecombinaisonAutomixis.cpp" />
+		<Unit filename="RecombinaisonModel1.cpp" />
+		<Unit filename="RecombinaisonModel1.h" />
+		<Unit filename="RecombinaisonModel2.cpp" />
+		<Unit filename="RecombinaisonModel2.h" />
+		<Unit filename="RecombinaisonModel3.cpp" />
+		<Unit filename="RecombinaisonModel3.h" />
+		<Unit filename="RecombinaisonModel4.cpp" />
+		<Unit filename="RecombinaisonModel4.h" />
+		<Unit filename="RecombinaisonModel5.cpp" />
+		<Unit filename="RecombinaisonModel5.h" />
+		<Unit filename="SegregationModel8.cpp" />
+		<Unit filename="SegregationModel8.h" />
+		<Unit filename="SelectionModel1.cpp" />
+		<Unit filename="SelectionModel1.h" />
+		<Unit filename="SelectionModel2.cpp" />
+		<Unit filename="SelectionModel2.h" />
+		<Unit filename="SelectionModel3.cpp" />
+		<Unit filename="SelectionModel3.h" />
+		<Unit filename="SelectionModel4.cpp" />
+		<Unit filename="SelectionModel4.h" />
+		<Unit filename="SelectionModel5.cpp" />
+		<Unit filename="SelectionModel5.h" />
+		<Unit filename="SelectionModel6.cpp" />
+		<Unit filename="SelectionModel6.h" />
+		<Unit filename="SelectionModel7.cpp" />
+		<Unit filename="SelectionModel7.h" />
+		<Unit filename="SelectionModel8.cpp" />
+		<Unit filename="SelectionModel8.h" />
+		<Unit filename="Statistics.cpp" />
+		<Unit filename="Statistics.h" />
+		<Unit filename="Vecteur.cpp" />
+		<Unit filename="Vecteur.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
